@@ -1,0 +1,20 @@
+{
+  "name": "teamly.js",
+  "version": "1.0.0",
+  "description": "Teamly.js allows you to create bots for the Teamly app using JavaScript! If you like it, feel free to contribute to the development :)",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "keywords": [
+    "teamly",
+    "bot",
+    "api",
+    "websocket",
+    "nodejs"
+  ],
+  "author": "Tahrex",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "ws": "^8.18.3"
+  }
+}
