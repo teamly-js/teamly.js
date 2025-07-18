@@ -30,7 +30,7 @@ client.on("MESSAGE_SEND", async (msg) => {
 
         client.bot.sendMessage(msg.channelId, "", [embed.toJSON()])
     }
-}
+})
 
 client.connect();
 ```
