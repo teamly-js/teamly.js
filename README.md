@@ -35,6 +35,8 @@ client.on("MESSAGE_SEND", async (msg) => {
 client.connect();
 ```
 
+**Install**: `npm install teamly.js`
+
 **Teamly API**: [Click](https://docs.teamly.one/introduction-796437m0)<br>
 **Teamly Developer**: [Click](https://teamly.one/developers)<br>
 
