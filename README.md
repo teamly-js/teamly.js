@@ -7,7 +7,7 @@ Teamly.js allows you to create bots for the Teamly app using JavaScript! If you 
 <div>
 
 ```js
-const { TeamlyClient } = require("teamly.js");
+const { TeamlyClient,Embed } = require("teamly.js");
 const client = new TeamlyClient("BOT_TOKEN");
 
 client.on("ready", ({bot}) => {
