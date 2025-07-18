@@ -1,6 +1,6 @@
 {
   "name": "teamly.js",
-  "version": "1.0.0",
+  "version": "1.0.0-BETA",
   "description": "Teamly.js allows you to create bots for the Teamly app using JavaScript! If you like it, feel free to contribute to the development :)",
   "main": "src/index.js",
   "types": "src/index.d.ts",
